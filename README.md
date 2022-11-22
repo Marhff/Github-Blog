@@ -64,4 +64,3 @@ npm run start
 
 
 
-👉 Visit my linkedin: https://www.linkedin.com/in/pedrovdf/
