@@ -1,12 +1,10 @@
-# 🚀 Github Blog 🚀
-
-That is the challenge for Ignite Course from Rocketseat
-
-We built a Simple Github Blog, to train our fundamentals about React and to test how to use Markdown on WebApp
+# 🚀 Github Blog Diary 🚀
+This is my Blog/Diary where I'll write the things I'm developing and at the moment.
+Where can I organize myself better and learn more about the technologies I'm studying over time!
 
 It is totally responsive, so try to access in your phone too
 
-### 👉 Link to Access: https://github-blog-hazel.vercel.app/
+### 👉 Link to Access: 
 
 ## ▶ How to start project
 
