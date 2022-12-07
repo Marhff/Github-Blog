@@ -33,32 +33,7 @@ npm run start
   - See the body from a Markdown Type
 
 
- ## 📸 Screenshot Section
-### 💻 Desktop Mode
 
-## Initial Page
-![image]()
-
-## Initial Page - List Section
-![image]()
-
-## Filter by Text
-![image]()
-
-## Detail Page
-![image]()
-
-
-### 💻 Mobile Mode
-
-## Initial Page
-![image]()
-
-## initial Page - List Section
-![image]()
-
-## Detail Page
-![image]()
 
 
 
